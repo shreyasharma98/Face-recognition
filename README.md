@@ -34,5 +34,5 @@ Detecting Faces in the image using frontalface Haarcascade.
   > Detect the faces and Make the dataset of the them : create_dataset.py <br>
   > Train the Machine and create .Yml file of the dataset : train.py <br>
   > Final Recognition : Face_recognition.py
- Result: 
+### Result: 
  <img src="images/recognise.png" />
