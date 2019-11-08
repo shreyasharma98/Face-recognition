@@ -31,8 +31,8 @@ The characteristics are called Haar Features. The feature extraction process wil
 Detecting Faces in the image using frontalface Haarcascade.
 <img src="detect.png" />
 ## Recognition
-  > Detect the faces and Make the dataset of the them : create_dataset.py
-  > Train the Machine and create .Yml file of the dataset : train.py
+  > Detect the faces and Make the dataset of the them : create_dataset.py <br>
+  > Train the Machine and create .Yml file of the dataset : train.py <br>
   > Final Recognition : Face_recognition.py
  Result: 
  <img src="recognise.png" />
