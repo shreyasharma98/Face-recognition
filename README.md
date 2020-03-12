@@ -4,6 +4,7 @@ Real Time Face Recognition in Python using Opencv and Haarcascade.
 
 ### Prerequisites
 
+python </br>
 Numpy</br>
 OpenCV
 Haarcascades : https://github.com/opencv/opencv/tree/master/data/haarcascades
